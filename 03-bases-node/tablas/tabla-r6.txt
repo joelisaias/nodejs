@@ -1,0 +1,12 @@
+r6 * 1 = NaN 
+r6 * 2 = NaN 
+r6 * 3 = NaN 
+r6 * 4 = NaN 
+r6 * 5 = NaN 
+r6 * 6 = NaN 
+r6 * 7 = NaN 
+r6 * 8 = NaN 
+r6 * 9 = NaN 
+r6 * 10 = NaN 
+r6 * 11 = NaN 
+r6 * 12 = NaN 
